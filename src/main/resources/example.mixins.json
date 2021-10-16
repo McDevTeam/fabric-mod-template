@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "it.bisumto.carpetschool.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "CreateWorldScreenMixin",
+    "GameMenuScreenMixin",
+    "MinecraftClientAccessor",
+    "MouseMixin",
+    "PackScreenMixin",
+    "ServerPlayerEntityMixin",
+    "TitleScreenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

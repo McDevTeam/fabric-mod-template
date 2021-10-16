@@ -1,2 +1,3 @@
-# fabric-mod-template
- 
+# Fabric Mod Template
+
+Fabric Mod Template
